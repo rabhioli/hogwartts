@@ -23,3 +23,16 @@ body {
 ul {
     list-style: none;
 }
+body {
+    font-family: fantasy;
+}
+
+/* Add a gray 1px solid border around the table, th, and td elements */
+table, th, td {
+    border: 1px solid gray;
+}
+
+/* Center the table on the page */
+table {
+    margin: 0 auto;
+}
