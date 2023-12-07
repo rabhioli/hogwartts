@@ -36,3 +36,7 @@ table, th, td {
 table {
     margin: 0 auto;
 }
+/* In your main.css file */
+.cabbage {
+    color: CHARTREUSE;
+}
